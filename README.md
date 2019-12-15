@@ -1,8 +1,11 @@
+
+
+
 > ## FACE BOY
 > ### AI's opinion of your face
 > made by 목민수, 조준환, 최유현
 site link: [https://aiopininonofyourface.netlify.com](https://aiopininonofyourface.netlify.com/)
-and you can learn more in bit.ly/faceboy we use [google sites](https://sites.google.com/new) for made this site
+and you can learn more in [bit.ly/faceboy](bit.ly/faceboy) we use [google sites](https://sites.google.com/new) for made this site
 
 
 ### How did you teach AI?
@@ -64,4 +67,4 @@ we made like this
 I'm not sure because only 220 people do this AI and many people say "AI said I'am very handsome!!"
 but... I never saw it more than normal...
 
-picopass127@gmail.com / bit.ly/faceboy
+picopass127@gmail.com / [bit.ly/faceboy](bit.ly/faceboy)
