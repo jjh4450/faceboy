@@ -65,6 +65,6 @@ we made like this
         }
 ###   Is this artificial intelligence a good judge?
 I'm not sure because only 220 people do this AI and many people say "AI said I'am very handsome!!"
-but... I never saw it more than normal...
+but... I never saw AI say very handsome!! for me
 
 picopass127@gmail.com / [bit.ly/faceboy](https://bit.ly/faceboy)
